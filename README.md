@@ -13,3 +13,9 @@ También se pueden visualizar gráficos de la respuesta en frecuencia y la forma
 Este software es útil para analizar y diseñar circuitos RLC en aplicaciones electrónicas y de ingeniería eléctrica.
 
 Nota: asegúrate de ingresar los valores en las unidades correctas.
+
+## Importante
+
+El proyecto está en desarrollo, por ahora corre desde consola
+
+Posteriormente le añadiré interfaz gráfica, tabla con ecuaciones y exportación de informe pdf.
