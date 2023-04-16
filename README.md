@@ -1,6 +1,6 @@
 # Cálculo de Circuitos RLC
 
-* El propósito de este proyecto es aprender a usar librerías importantes de Python como Matplotlib, Numpy y Scipy *
+*El propósito de este proyecto es aprender a usar librerías importantes de Python como Matplotlib, Numpy y Scipy*
 
 Este software permite calcular las salidas de circuitos RLC en serie y en paralelo.
 
